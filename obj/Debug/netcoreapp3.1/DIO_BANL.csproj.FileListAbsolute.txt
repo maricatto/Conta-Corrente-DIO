@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\DIO_BANL\bin\Debug\netcoreapp3.1\DIO_BANL.exe
+C:\Users\Usuario\source\repos\DIO_BANL\bin\Debug\netcoreapp3.1\DIO_BANL.deps.json
+C:\Users\Usuario\source\repos\DIO_BANL\bin\Debug\netcoreapp3.1\DIO_BANL.runtimeconfig.json
+C:\Users\Usuario\source\repos\DIO_BANL\bin\Debug\netcoreapp3.1\DIO_BANL.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\DIO_BANL\bin\Debug\netcoreapp3.1\DIO_BANL.dll
+C:\Users\Usuario\source\repos\DIO_BANL\bin\Debug\netcoreapp3.1\DIO_BANL.pdb
+C:\Users\Usuario\source\repos\DIO_BANL\obj\Debug\netcoreapp3.1\DIO_BANL.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DIO_BANL\obj\Debug\netcoreapp3.1\DIO_BANL.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DIO_BANL\obj\Debug\netcoreapp3.1\DIO_BANL.dll
+C:\Users\Usuario\source\repos\DIO_BANL\obj\Debug\netcoreapp3.1\DIO_BANL.pdb
